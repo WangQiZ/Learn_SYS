@@ -9,7 +9,7 @@
 2. Fill the L2 Cache with _ldcg() -> timing properties
 
 # Cache Eviction Sets
-## Pointer Chase Exoeriment
+## Pointer Chase Experiment
 
 1. find a target address and measure access time
 2. from 1 to x access other address
